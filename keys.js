@@ -1,0 +1,7 @@
+export const  apiKey = "AIzaSyDMuraQLLDjhcx6o1Z7-21NpB6-5Q2z3Nc" 
+export const  authDomain = "blogit-react.firebaseapp.com" 
+export const  projectId = "blogit-react" 
+export const  storageBucket = "blogit-react.appspot.com" 
+export const  messagingSenderId = "807382697438" 
+export const  appId = "1:807382697438:web:eece286cbba15356fc894f" 
+export const  measurementId = "G-T0MBCKC1MP" 
