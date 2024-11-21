@@ -1,5 +1,7 @@
 # Blog App with React JS
 
+host link -https://blogg-it.netlify.app/
+
 ![blog landing](./public/main-page.png)
 A blog application with React and Firebase as a backend
 
